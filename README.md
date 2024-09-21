@@ -1,4 +1,4 @@
-# CBT app Docker deployer Electron (quasar) app
+# CBT Deployer Releases
 
 This repo is the build artefacts output for the CBT app Docker deployer Electron (quasar) app (screenshot show below).
 
